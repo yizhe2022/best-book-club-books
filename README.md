@@ -33,7 +33,7 @@ All summary files in this repository are free to download for personal use. Clic
 | **The Namesake** | Jhumpa Lahiri | [📄 Read](./the-namesake.pdf) | [🎧 Download](./the-namesake_book_summary.m4a) | [🌐 Listen on Nookix](https://www.nookix.net/book/the-namesake) |
 | **The Warmth of Other Suns** | Isabel Wilkerson | [📄 Read](./the-warmth-of-other-suns.pdf) | [🎧 Download](./the-warmth-of-other-suns_book_summary.m4a) | [🌐 Listen on Nookix](https://www.nookix.net/book/the-warmth-of-other-suns) |
 | **Their Eyes Were Watching God** | Zora Neale Hurston | [📄 Read](./their-eyes-were-watching-god.pdf) | [🎧 Download](./their-eyes-were-watching-god_book_summary.m4a) | [🌐 Listen on Nookix](https://www.nookix.net/book/their-eyes-were-watching-god) |
-| **Things Fall Apart** | Chinua Achebe | 📄 *(Coming Soon)* | [🎧 Download](./things-fall-apart_book_summary.m4a) | [🌐 Listen on Nookix](https://www.nookix.net/book/things-fall-apart) |
+| **Things Fall Apart** | Chinua Achebe | [📄 Read](./things-fall-apart.pdf) | [🎧 Download](./things-fall-apart_book_summary.m4a) | [🌐 Listen on Nookix](https://www.nookix.net/book/things-fall-apart) |
 | **We Should All Be Feminists** | Chimamanda Ngozi Adichie | [📄 Read](./we-should-all-be-feminists.pdf) | [🎧 Download](./we-should-all-be-feminists_book_summary.m4a) | [🌐 Listen on Nookix](https://www.nookix.net/book/we-should-all-be-feminists) |
 
 ---
